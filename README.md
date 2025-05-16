@@ -11,7 +11,8 @@ This project simulates a low-power BLE sensor node using the ESP32-C3 and BME280
 - Regulated via MCP1700 3.3V LDO for sensor stability
 
 ## 🖼️ Schematic
-![BLE Sensor Schematic](images/ble_schematic.png)
+![BLE Schematic](https://github.com/swaradh-273/ble-sensor-node/blob/main/images/ble_schematic.png?raw=true)
+
 
 ## ⚙️ Components
 - ESP32-C3 (BLE + Wi-Fi capable microcontroller)
