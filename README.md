@@ -17,7 +17,8 @@ The ESP32 boot and enable pins are configured using 10k pull-up resistors and pu
 Special care is taken to maintain antenna clearance by keeping copper and ground planes away from the PCB antenna region to ensure reliable BLE performance.
 
 ## 🖼️ Schematic
-![BLE Schematic](https://github.com/swaradh-273/ble-sensor-node/blob/main/images/ble_schematic.png?raw=true)
+images/SCH_Schematic1_1-P1_2026-02-22.png
+
 
 
 ## 📎 Project Files
